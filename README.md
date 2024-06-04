@@ -1,5 +1,4 @@
-- Hello. I’m @jeremy106 
-- I’m currently learning whatever I can
+- One of the few Jeremys left in the wild
 
 
 
