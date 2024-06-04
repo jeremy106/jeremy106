@@ -1,6 +1,4 @@
-- One of the few Jeremys left in the wild
-
-
+One of the few Jeremys left in the wild
 
 <!---
 jeremy106/jeremy106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
